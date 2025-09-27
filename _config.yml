@@ -1,6 +1,6 @@
 title: Your Blog Title
 description: A short description of your blog
-baseurl: "/propzilla"   # this should be your repo name with a leading slash
+baseurl: "/propzillaa"   # this should be your repo name with a leading slash
 url: "https://infoworkdev.github.io"  # your GitHub Pages base URL
 
 # Email / Social media user names used by the minima theme:
